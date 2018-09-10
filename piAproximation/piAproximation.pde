@@ -28,7 +28,7 @@ void draw(){
     float d = dist(0,0,x,y);
   
     if (d<r){
-      stroke(0,255,0);
+      stroke(100,255,0);
       circle++;
     }else{
       stroke(0,0,255);
