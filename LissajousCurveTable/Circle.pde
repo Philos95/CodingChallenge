@@ -6,7 +6,7 @@ class Circle{
   float y;
   float cx;
   float cy;
-  float radius = 50;
+  float radius = 20;
   float d=30;
   float angle;
   
